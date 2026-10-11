@@ -6,17 +6,15 @@ The filtering rules are **not authored or maintained here**. The authoritative u
 
 ## Subscribe
 
-After the first successful GitHub Actions build, the generated list is served at:
+The generated list is served at:
 
 ```text
 https://raw.githubusercontent.com/Dabrogost/fanboy-annoyance-mirror/main/fanboy-annoyance.txt
 ```
 
-The file is generated during the first successful run; this URL will return 404 until then.
-
 ## Automated updates
 
-GitHub Actions runs twice daily (05:17 and 17:17 UTC) or on demand under **Actions → Build Fanboy Annoyance uBO → Run workflow**.
+GitHub Actions runs once daily. (05:00 UTC)
 
 The workflow:
 
@@ -27,12 +25,6 @@ The workflow:
 5. Commits and publishes only when the filtering rules change (ignores build-timestamp-only differences).
 
 If the upstream fetch, compilation, or validation fails, the workflow fails **without replacing the previously published list**.
-
-## Chroma integration
-
-Point the default Fanboy subscription at the generated URL in `extension/subscriptions/lists.js`. Retain `cosmeticOnly: true` so Chroma continues to handle cosmetic and scriptlet rules without adding this list's network rules to dynamic DNR rules.
-
-Validate an initial successful update before switching Chroma's default subscription. The counts from the previous cached subscription (45,960 cosmetics and 2,781 scriptlets as of October 10, 2026) are useful reference figures, but will change with upstream edits and Chroma's supported-scriptlet filtering.
 
 ## Credits and licensing
 
