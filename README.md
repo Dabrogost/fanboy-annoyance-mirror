@@ -1,4 +1,4 @@
-# Fanboy's Annoyance List — uBO build mirror
+# Fanboy's Annoyance List - uBO build mirror
 
 Independent, automatically generated distribution of **Fanboy's Annoyance List (uBlock Origin edition)** for [Chroma Ad-Blocker](https://github.com/Dabrogost/Chroma-Ad-Blocker).
 
