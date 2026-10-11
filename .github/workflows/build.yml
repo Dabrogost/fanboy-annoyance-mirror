@@ -33,28 +33,40 @@ jobs:
       - name: Fetch official EasyList sources
         run: git clone --depth 1 https://github.com/easylist/easylist.git upstream
 
-      - name: Compile combined uBO list with Fanboy Agegate
+      - name: Compile combined uBO list with Agegate and Newsletter Shopping
         run: |
           cd upstream
 
           # Start with the official Fanboy Annoyance uBO template.
           cp fanboy-annoyance-uBO.template combined.template
 
-          # Append the official Fanboy Agegate source sections.
-          # Exclude its duplicate header and repeated includes.
+          # Include Fanboy Agegate.
+          # Exclude the duplicate header and repeated includes.
           printf '\n! ---------------- Fanboy Agegate ----------------\n' >> combined.template
 
           awk '/^%include / && !/template_header[.]txt/ && !seen[$0]++ { print }' \
             fanboy-agegate.template >> combined.template
 
-          # Ensure the Agegate uBO source is included.
+          # Include Fanboy Newsletter Shopping.
+          printf '\n! ---------------- Fanboy Newsletter Shopping ----------------\n' >> combined.template
+
+          cat >> combined.template <<'EOF'
+          %include easylist:fanboy-addon/fanboy_newsletter_shopping_specific_hide.txt%
+          %include easylist:fanboy-addon/fanboy_newsletter_shopping_specific_uBO.txt%
+          EOF
+
+          # Verify all additional sources are included.
           grep -Fq '%include easylist:fanboy-addon/fanboy_agegate_specific_uBO.txt%' combined.template
+          grep -Fq '%include easylist:fanboy-addon/fanboy_newsletter_shopping_specific_hide.txt%' combined.template
+          grep -Fq '%include easylist:fanboy-addon/fanboy_newsletter_shopping_specific_uBO.txt%' combined.template
 
           # Render everything into one subscription.
           flrender -i easylist=. combined.template ../fanboy-annoyance.candidate.txt
 
-          # Verify Agegate appears in the generated output.
+          # Verify all additional sources appear in the generated output.
           grep -Fq 'fanboy_agegate_specific_uBO.txt' ../fanboy-annoyance.candidate.txt
+          grep -Fq 'fanboy_newsletter_shopping_specific_hide.txt' ../fanboy-annoyance.candidate.txt
+          grep -Fq 'fanboy_newsletter_shopping_specific_uBO.txt' ../fanboy-annoyance.candidate.txt
 
       - name: Validate generated list and skip timestamp-only changes
         run: python scripts/validate_and_publish.py fanboy-annoyance.candidate.txt fanboy-annoyance.txt
