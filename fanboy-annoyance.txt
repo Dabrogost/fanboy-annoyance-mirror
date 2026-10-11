@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202610111932
+! Version: 202610111943
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Oct 2026 19:32 UTC
+! Last modified: 11 Oct 2026 19:43 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -55683,3 +55683,754 @@ amateurtvx.com,milftvx.com,sextvx.com,teentvx.com,titstvx.com##body,html:style(o
 ! *** easylist:fanboy-addon/fanboy_agegate_allowlist.txt ***
 ! fanboy_agegate_allowlist.txt
 lighterusa.com#@##shopify-section-age-gate
+
+! ---------------- Fanboy Newsletter Shopping ----------------
+! *** easylist:fanboy-addon/fanboy_newsletter_shopping_specific_hide.txt ***
+! fanboy_newsletter_shopping_specific_hide.txt
+alldayshirts.com###GeneralSaleBanner
+firstclasswatches.co.uk###OuiOverlay
+edikted.com###SMSBump-Modal
+mercato.com###ZipEmailModal
+hanes.com,military1st.com,shop.ordnancesurvey.co.uk###_lpSurveyPopover
+celticwebmerchant.co.uk###abandonednewsletter
+misterworker.com###block_footer_custom
+thegoodguys.com.au###catalogueDrawer
+arcade-sound.com###cb-announement-bar
+wards.com###cred-bnr-top
+gourmetfoodstore.com###divInterstitialContainer
+overstock.com###dynamic_banners
+niteize.com###easybanner-overlay-el
+costco.com###email-popup-title
+vat19.com###email-signup-footer-container
+cb2.ca###emailCheckFooter
+cruise.com###emailFooter
+zumiez.com###emailInfobar
+expediacruises.com###entWinSlideBox
+eastporters.com###ep-footer-subscribe
+offers.com###extras-container
+denon.com###footer-email-sign-up-form
+lakechamplainchocolates.com###footer-form
+gazelle.com###footer-newsletter-subscribe-form
+tirerack.com###footerNewEmail
+fleetnetwork.ca###footerSubcribeForm
+majorfood.com###formfooter
+adorama.com###global-footer-main_contact
+trlnutrition.com###grow-consent-modal
+homehardware.ca###hh-newsletter
+markselectrical.co.uk###info-popup-overlay
+hp.com###inside_holder
+theiconic.com.au###interstitial
+tenaquip.com###join-mailing-footer
+theletter.jp###js-sticky-footer
+ulta.com###js-stickyEmailSignUpFooter
+johnsonfitness.com###lb-wrapper-autonewsletter
+techforless.com###lightbox_container
+okvape.co.uk###lootly-widget
+reigningchamp.com,ruralking.com,shop.reigningchamp.com###ltkpopup-container
+reigningchamp.com,shop.reigningchamp.com###ltkpopup-overlay
+volquartsen.com###mailing-list
+enjoybot.com###mambasms-forms-container
+menards.com###mcomEmailBanner
+crazysales.com.au###middleSubscribe
+agriaffaires.it,harem69.com.br,intersport.com.au,petroleumservicecompany.com###newsletter
+bonnieandpop.com###newsletter-container
+cottonon.com###newsletter-entry-footer
+saluhallmarket.com###newsletter-modal
+humblebundle.com###newsletter-sign-up
+pi-shop.ch###newsletter-validate-detail
+mwave.com.au###newsletterForm
+originpc.com###newsletterModal
+shop.mango.com###newsletterSubscriptionModalLoad
+undergear.com###newsletterp_0
+akkogear.com###newuser_promotion_ad
+edenfantasys.com###nlSubscriptionForm
+overstock.com###omailContainer
+snatcher.co.za###omnisend-dynamic-container
+homemark.co.za###omnisend-form-6374e71bfb02cc636d393258
+snatcher.co.za###omnisend-form-63c2e367547ff69603390250-submit-form
+audiogeeks.com,keepgo.com###omnisend-forms-container
+cabletimetech.com,gothamcigars.com###omnisend-forms-wrapper
+virginexperiencedays.co.uk###onExit
+forkneasy.com.au###pop-convert-app
+d2-store.com###popup_box
+horage.com###s522
+g2a.com###see-more-section
+gizmodern.com,store.drlivingood.com###shopify-section-newsletter
+hificentre.com###shopify-section-static_site_popup
+biblio.co.uk,biblio.com###subscribe
+fingerhut.com###subscribe-app
+mrphone.gr###theMarketer-popup-backdrop
+tkmaxx.com###tjx-newsletter
+markselectrical.co.uk###voucher-request-popup
+browserling.com###web-subscribe2
+aeromalls.com###widget-newsletter
+pinchersusa.com###zr-form-overlay
+porndoe.com##.-footer-subscribe
+thesocialhub.co##.ActionPanelNewsletter__ActionPanel
+eneba.com##.BFm46L
+goldbelly.com##.Banner_overlay__7EzkA
+llbean.com##.Footer_email-form
+beatsbydre.com##.InlineEmailSignUp
+mercato.com##.MercatoGreenBanner-module__MercatoGreenBanner--wTHHyh
+schottnyc.com##.NEWSLETTER_ONENTRY
+littlewordsproject.com##.Newsletter
+dauletapparel.com,laurentferrier.ch##.NewsletterPopup
+elgato.com##.NewsletterPopup_newsletter-popup__1pFRF
+penguin.co.uk##.NewsletterSignup_wrapper__mTmqu
+thesocialhub.co##.Overlay
+homary.com##.RegisterAndGetOFF
+mrporter.com##.SubscribePopup2
+mrporter.com##.SubscribePopup2__pop-up-overLay
+grove.co##.TheFooterSignUp
+takealot.com##.Toastify
+thesocialhub.co##.Widget
+jbhifi.com.au##._13cnlxs2af
+dicksmith.co.nz,dicksmith.com.au,kogan.com,mattblatt.com.au##._1iiWS
+wayfair.com##._4zodakb._4zodaka
+allmodern.com,birchlane.com,jossandmain.com##._9u2nava_713
+adidas.com##._footer_newsletter_1ecdc_1
+flypgs.com##.act-btns-wrapper__newsletter
+happy-trail.com##.alo-newletter
+mightyskins.com,pinkstork.com##.amped-wrapper
+sunlu.com##.aph_overlay
+sunlu.com##.aph_pop_pop
+aritzia.com##.ar-newsletter-tc__sheet
+hudsonappliance.com##.avb-magento-form
+toysrus.ca##.b-footer_email
+boohoo.com##.b-newsletters
+techforless.com##.backdrop
+bestpricenutrition.com,fallindesign.com##.beautify__newsletter
+guitarcenter.com##.bg-borderMoreLightColor
+bestbuycyprus.com,enotecapirovano.com,shop.mchobby.be##.block-newsletter
+bestreviews.com##.blocksv4-bestreviews-landing-landingsubscribe
+shopkitchenclique.com##.blp-container
+undergear.com##.bls_footer--newsletter
+zadowolenie.pl##.box-newsletter-lp
+cheapfareguru.com##.btm-subsc-blk
+foodservicedirect.com##.c-mail-sub-bar
+anthropologie.com,freepeople.com,urbanoutfitters.com##.c-pwa-email-signup--footer
+made-in-china.com##.campaign-pop-container
+made-in-china.com##.campaign-pop-mask
+firmdalehotels.com##.cmp-newsletter-popup
+allblackx.com,darkx.com,eroticax.com,hardx.com,lesbianx.com,xempire.com##.component-EmailGrabber-Wrapper
+shopperplus.ca##.connect-us
+flashtrend.co.nz##.container-news-sub
+stoneberry.com##.cordial-email-signup
+onedayonly.co.za##.css-16esypq
+minted.com##.css-1dwh0gf
+katespade.com##.css-81stxx
+lakeside.com,ltdcommodities.com##.css-jh5v8h
+robinsonsshoes.com##.cta-modal
+pagani.co.nz##.curtain
+elxis.com,restaurantkod.co.uk,underground-england.com##.dialog-lightbox-widget
+fruitarian.store,naturalsound.ca,shellsoul.com,sigav.com##.dialog-type-lightbox
+gourmetfoodstore.com##.divInterstitialBGCover
+thegoodguys.com.au##.drawerTitleTextWrapper
+dickssportinggoods.com##.dsg-react-footer-cwu-sign-up
+nectarsleep.com##.dy-act-overlay
+niteize.com##.easybanner-lightbox-content
+taurususa.com##.eb-init
+tulipes.ca##.elementor-popup-modal
+belk.com##.email-alert-signup
+pulseuniform.com##.email-bar20
+homestore.zola.com##.email-capture-component
+otterbox.com##.email-input
+arb.com.au##.email-overlay
+hobbylobby.com##.email-sign-up-form
+thomaspink.com##.email-sign-up_emailSignUpContainer__OJefo
+crucial.com,magazines.com,napacanada.com##.email-signup
+logitechg.com##.email-subscription
+iherb.com##.email-subscription-container
+levi.com##.email-subscription-form
+iherb.com##.email-subscription-new-container
+offers.com##.email-updates
+rosegal.com##.email-wrap
+hammacher.com##.emailBox
+cultbeauty.co.uk,cultbeauty.com,lookfantastic.com,myprotein.com,myprotein.it,myvitamins.com##.emailReengagement
+mcguckin.com##.email_SignUp
+shop.tootsie.com##.emailsignup
+snatcher.co.za,topdrawers.com##.emthemesModez-footer-newsletter
+edmfast.com,priceblaze.com,t-shirt.ca,youritdelivered.com##.emthemesModez-footer-topColumns-wrapper
+target.com.au##.enews-quick
+rona.ca##.enewsSubscribeModal
+ozsale.com.au##.epkJK
+cabothousefurniture.com##.et_bloom_popup
+hummel.net##.experience-commerce_assets-AdvanceTextEditor
+wayfair.com##.fINiis
+hifiheadphones.co.uk,shop.artnoise.ca##.fancybox-container
+yinibinibaby.com##.fd-modal
+esourceparts.ca##.foo-newsletter
+dhgate.com##.foot-login
+arcade-sound.com,frankfordcandy.com,gizmogoober.com,justripenutrition.com,vargooutdoors.com##.footer-block--newsletter
+halseymusicstore.com,localthreads.com.au,store.lizzomusic.com##.footer-block__newsletter
+crutchfield.com##.footer-card-email
+keychron.com##.footer-col--newsletter
+fleshlight.eu##.footer-cta
+123ink.ca,shopperplus.ca##.footer-customer-gift
+cheshirehorse.com,farmandfleet.com##.footer-email-signup
+renodepot.com##.footer-fixed
+carshopinc.com##.footer-head
+btr.com##.footer-info-col--newsletter
+sunsetmicro.com##.footer-info-newsletter-inn
+vistashops.com##.footer-mid
+funko.com,loungefly.com##.footer-newsletter
+berrybase.de##.footer-newsletter--container
+hugesupplements.com##.footer-newsletter-block
+eastendprints.co.uk##.footer-newsletterTop
+kitchenaid.com##.footer-productsignup
+sportchek.ca##.footer-section__newsletter_signup
+canadiantire.ca##.footer-social-share-icon__container-1
+canadianbestseller.com,moon-audio.com,mrphone.gr,sportsgirl.com.au##.footer-top
+autoplicity.com##.footer-top-follow-us
+publiclands.com##.footerEmailSignUp-container
+fantasticfurniture.com.au##.footerSubscribeMe
+walgreens.com##.footer__email-sign-up
+revzilla.com##.footer__email-signup
+mandmdirect.com##.footer__signup
+spigen.com,teufel.ch,teufel.de,teufelaudio.at,teufelaudio.be,teufelaudio.com,teufelaudio.es,teufelaudio.fr,teufelaudio.it,teufelaudio.nl,teufelaudio.pl##.footer__subscription
+barnesandnoble.com##.for-email
+shein.com##.ft-right-email
+overstock.com##.fusion-emailSignup
+theletter.jp##.gap-12 > .bg-surface-secondary.p-4.lg\:flex-col
+123ink.ca,shopperplus.ca##.gift-bag
+123ink.ca,shopperplus.ca##.git-bag-pop
+bunnings.co.nz##.gkDSfm
+healthyone.us##.h-newslatter--newsletter
+flexispot.ca,flexispot.co.uk,flexispot.com,flexispot.de,flexispot.es,flexispot.it,flexispot.nl,flexispot.pl##.home-subscribe
+crazysales.com.au##.home_fixed-subscribe__JNPlW
+g2a.com##.indexes__FormWrapper-wiflv6-1
+thedevicedepot.com##.interact
+dhgate.com##.j-foot-login
+shein.com##.j-quick-register-container
+brandsmartusa.com##.join-email-list-wrapper
+jared.com,zales.com##.join-list
+jobrapido.com##.jr-modal-wrapper
+templeandwebster.com.au##.js-footer-email-capture
+frankfamilyvineyards.com##.js-modal.modal--wrapper
+shop.amoreterra.com##.js-section__promo-pop
+harbourbookshop.co.uk##.jsFixedMessage
+birdbgone.com,hugesupplements.com,loveyourmelon.com,ritual.com,well.ca##.ju_Con
+dbrand.com##.ju_iframe
+birdbgone.com,hugesupplements.com,loveyourmelon.com,ritual.com,well.ca##.ju_overlay
+tanga.com##.jumbotron
+runningwarehouse.com.au##.l-footer-join
+oakandluna.com##.l2VEg
+indiegogo.com##.layoutFooter-newsletterSignUp-form
+freemans.com##.lb_overlay
+cactusflowerboutique.com,frontrunnercolombo.co.nz,paceathletic.com##.lg-backdrop
+cactusflowerboutique.com,frontrunnercolombo.co.nz,paceathletic.com##.lg-outer
+target.com##.lgfwSu
+clinique.com##.loyalty-offer-overlay
+antwerpdiamonds.direct##.mailchimp-wrap
+ctsbooks.org##.main-footer
+fortnine.ca##.main-footer-newsletter
+grabone.co.nz##.main-footer__subscribe
+blackwells.co.uk##.main-sign-up
+papersource.com##.marigold-form-popup
+rosegal.com##.mask
+fanatics.com,opositiv.com##.modal
+saluhallmarket.com##.modal-backdrop
+thorne.com##.modal-div
+tradetested.co.nz##.modal-newsletterModal
+opositiv.com##.modal_overlay
+balfesbikes.co.uk##.modular-footer-socials
+jcrew.com##.module-footer__signup
+becextech.co.nz##.news
+tradeinn.com##.newsFooter
+computerlounge.co.nz##.newsLetterSignupWrapper
+citybeach.com,worldwidevoltage.com##.newsletter-block
+graeters.com,netshoes.com.br,oficialfarma.com.br,shoestock.com.br##.newsletter-container
+ultra1plus.com##.newsletter-pop-up-container
+networkdevicesinc.com##.newsletter-row
+awesomebooks.com##.newsletter-section
+chaussures.fr,eapavi.lv,ecipele.hr,ecipo.hu,eobuv.cz,eobuv.sk,eobuwie.com.pl,epantofi.ro,epapoutsia.gr,escarpe.it,eschuhe.at,eschuhe.ch,eschuhe.de,eskor.se,evzuttya.com.ua,obuvki.bg,zapatos.es##.newsletter-section-wrapper
+supplementwarehouse.com.au##.newsletter-style-4
+fatquartershop.com,thebrick.com##.newsletter-wrapper
+neonyxcruises.com##.newsletterCol
+saluhallmarket.com##.newsletterForm
+kathmandu.co.nz,kathmandu.com.au##.newsletterForm-1Gx
+bhphotovideo.com##.newsletter_PK8HvolxQy
+lauramercier.com##.newsletter__col
+mince.nl##.newsletter_container
+linenbee.com,nyspiceshop.com,thegame.cool##.newsletter_section
+douglas.bg##.newspopup_up_bg
+canadiantire.ca##.nl-email-sticky-banner
+onebioshop.com##.nt_se_newsletter2
+urbanoutfitters.com##.o-pwa-modal-overlay
+oralb.co.uk##.ob-interstitial-popup-modal
+ooni.com##.ooni-footer-newsletter
+hepper.com##.opportunity-container
+gunsamerica.com,ultra1plus.com##.overlay
+officeworks.com.au##.ow-signup
+deciem.com,theordinary.com##.page_footer-container_newsletter_sticky
+pcliquidations.com##.pclHotDeals
+bkstr.com##.persistentcomponent
+shoppersdrugmart.ca##.plp__newsLetterSignUp__3GXDU
+rouleurcycles.co.nz##.ply-backdrop
+pagani.co.nz,seastarsuperbikes.co.uk##.popup
+shein.com##.popup-dialog-quickRegister
+hifiheadphones.co.uk,towerhousewares.co.uk##.popup-modal
+wearesync.co.uk##.popup-wrapper
+shakeshack.co.uk##.popupwrapper
+atlanticsuperstore.ca##.product-details-page__ad-unit
+anacondastores.com,harrisscarfe.com.au,spotlightstores.com##.promo-banner
+onlineshop.oxfam.org.uk##.promotion-messages
+hudsonmarine.co.uk##.promotional-modal-container
+workprotools.store##.proof-factor-app
+jobrapido.com##.proposal-box
+glassons.com,hallensteins.com##.ps-curtain
+herbiesheadshop.com##.pulse-subscribe
+theroyaloakmarylebone.com##.pum
+ceenergynews.com##.pum-overlay[data-popmake*="newsletter-signup-popup"]
+zappos.com##.qi-z
+freemans.com##.quitifyBannerContainer
+musiciansfriend.com##.responsive-footer_email-signup
+drinkcirkul.com##.reveal-newsletter
+drinkcirkul.com##.reveal-overlay
+cosmicnz.co.nz##.s-popup
+samsclub.com##.sc-footer-desktop-sect01
+ringkestore.com##.section-footer__newsletter-block
+candywarehouse.com##.section-newsletter
+epomaker.com##.sf__newsletter-section
+penguinrandomhouse.com##.sgnup
+macys.com##.sign-up
+groceryoutlet.com##.sign-up-banner-inner
+gustorestaurants.com##.signup
+chemistwarehouse.co.nz##.signup-bar
+theiconic.co.nz,thesoapery.co.uk##.signup-form
+burkesoutlet.com##.signup-wrapper
+countryroad.com.au##.signup_form_container
+almanac.com,landyachtz.com,princessauto.com##.simpleltkmodal-container
+almanac.com,landyachtz.com,princessauto.com##.simpleltkmodal-overlay
+nostalgiaproducts.com##.site-announcement
+badkamerdeal.nl,wordsworth.co.za##.site-footer-block-newsletter
+sweetwater.com##.site-footer-col--subscribe
+navafresh.com##.site-footer-newsletter__one-half
+prohockeylife.com##.site-newsletter-bar
+wildturkeybourbon.com##.sn_crm_forms
+wolverine.com##.social-box-sign-up
+goldbelly.com##.spec__footer-newsletter
+teepop.com##.spin-modal
+lambland.co.uk,solestop.com##.springbot-overlay
+supplementwarehouse.com.au##.spy-newsletter
+gunsamerica.com##.sticky-footer-overlay
+geekbuying.com##.sub_bg
+angara.com##.subcription-block
+jbhifi.co.nz,lladro.com,netflorist.co.za,topflightautomotive.com##.subscribe
+newegg.ca,newegg.com##.subscribe-box
+tmcnet.com##.subscribe-feed
+i-tech.com.au##.subscribe-footer
+etsy.com,global.microless.com##.subscribe-form
+candycopia.com##.subscribe-section
+cottonon.com##.subscribe-tab
+standout.co.uk##.subscription-block
+suncoastparts.com##.t-newsletter-form--container
+microperfumes.com##.tap-email
+nordstrom.com##.tfCi0
+getrxd.com##.top-footer-wrapper
+hummel.net##.top-header-banner
+sleepworld.com##.top-start
+sportsmans.com##.tw-email-signup-section
+ugreen.com##.ug-footer-subscribe
+bathandbodyworks.com,fye.com##.ui-dialog
+aritzia.com,bathandbodyworks.com,fye.com##.ui-widget-overlay
+lcpshop.net##.ulp-window-container
+volksbank.it##.vb-magazine-newsletter
+dsw.ca##.vip-enrollment-banner
+hmart.com##.vtex-flex-layout-0-x-flexRow--newsletter
+amcrest.com##.wd1_nlpopup
+amcrest.com##.wd1_nlpopup_overlay
+audioadvice.com##.white-bkg
+beverageforyou.com##.widget-popup
+canadianbestseller.com##.woocommerce-store-notice
+monkeyoffice.co.uk##.wrapNewsletterFooter
+harveynorman.co.nz##.wufoo-form-container
+zappos.com##.xh-z
+bancone.co.uk,gingerbreadfactory.com,holiday-whimsy.com,ooshtush.com,rgmwatches.com##.yui-popup-container-node
+costco.ca,costcobusinesscentre.ca##[aria-label="Email Sign Up Form"]
+kayak.com##[aria-label="Receive our newsletter."]
+costco.com##[data-testid="emailsignupform--all"]
+leer.com##c-tag-home-page-sign-up-pop-up
+creditcardgenius.ca##ccg-modal
+shopcjglobal.com##flashy-popup
+! :has
+market.samm.com#?#.bg-light:has-text(newsletter)
+recordcollectormag.com#?#.widget_text:has-text(newsletter)
+rprealtyplus.com#?#.border.rounded.p-2:has-text(news letter)
+! ! top-level domain wildcard
+asgoodasnew.*,edestinos.*,esky.*,eskytravel.*###newsletter
+atrapalo.*###subscription
+pricespy.*##.TopSection-sc-z3c0qx-11
+royalqueenseeds.*##.hubspot-widget-newsletter
+dedoles.*##.mailinglist-signin
+logitravel.*##div > div[data-testid="NewsletterSubscription"]
+! smsbump-form-
+braveandkindbooks.com,deal4.ca,gizmogoober.com##[id^="smsbump-form-"]
+! ! zavvi.
+zavvi.com,zavvi.com.au,zavvi.de,zavvi.ie,zavvi.nl##.emailReengagement
+! ! shopify-section-popups
+camerawholesalers.com,flight-model.com,p2nstore.co.uk,simcoeav.ca###shopify-section-popups
+! ! #shopify-section-popup
+backroadslondon.com,bazaar-foods.co.uk,fsaproshop.com,modify71.co.uk,ownsilent.international,roughandreadywholefoods.co.uk,vulkit.com###shopify-section-popup
+! ! .newsletter
+1stplace4trophies.co.uk,arcade1up.com,bigmammagroup.com,bodybuildingwarehouse.co.uk,crazysales.com.au,deichmann.com,ditano.com,electroeshop.com,everymarket.com,fatalmodel.shop,grandandtoy.com,herroom.com,hisroom.com,hunterboots.co.uk,jdpower.com,jumbosports.com,kippersrijssen.nl,libreriascolastica.it,libreriauniversitaria.it,lojadafarmacia.com,madeincucina.com,nb.co.za,niepoort.pt,primainfanzia.it,qualitymobilevideo.com,ramim.com.br,roguefitness.com,salewa.com,sapstjean.com,scarpescarpestore.com,servers4less.com,skyairline.com,solofutbol.com,surveillance-video.com,technologygalaxy.com,teksavvy.com,thewolseley.com,tuffshop.co.uk,wellnesswarehouse.com##.newsletter
+! ! #ps__widget_container
+comfortoneshoes.com,getrawnutrition.com,groovelife.com,mypatriotsupply.com,myvidaorigins.com,revivesups.com###ps__widget_container
+! ! a[href*="/newsletter"]
+innovations.com.au##a[href*="/newsletter"]
+! ! .bottom-0.fixed
+refurbly.se##.bottom-0.fixed
+! ! .newsletter_
+bhphotovideo.com##[class^="newsletter_"]
+! ! calvinklein.*
+calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk##div[class^="NewsletterBanner_"]
+! ! .ReactModal__Overlay
+rugs.ca##.ReactModal__Overlay
+! ! .inset-0.fixed
+anker.com##.inset-0.fixed
+! ! .modal
+baybloorradio.com,bizpromo.co.nz,de-santis.it,spinner-group.com,thebrick.com##.modal
+! ! .modal-backdrop
+baybloorradio.com,bizpromo.co.nz,de-santis.it,originpc.com,spinner-group.com,underarmour.ca,underarmour.cl,underarmour.co.nz,underarmour.com,underarmour.com.au,underarmour.com.br,underarmour.com.mx,underarmour.com.my,underarmour.de,underarmour.es,underarmour.eu,underarmour.fr,underarmour.it,underarmour.nl##.modal-backdrop
+! ! underarmour
+underarmour.ca,underarmour.cl,underarmour.co.nz,underarmour.com,underarmour.com.au,underarmour.com.br,underarmour.com.mx,underarmour.com.my,underarmour.de,underarmour.es,underarmour.eu,underarmour.fr,underarmour.it,underarmour.nl###emailPopUpModal
+! ! #omnisend-dynamic-container
+a1supplements.com,allyouplay.com,factoryfast.com.au,globaleparts.com,huskymoto.co.uk,jj-motorsports.com,mavigadget.com,nevstudio.com,noticethereckless.com,orbitgear.net,orka.ca,pastimesports.ca,recstuff.com,santiemidwest.com,skinhelpzone.com,supplementschester.co.uk,thetruthbeautycompany.com,toolsplus.com###omnisend-dynamic-container
+! ! #smile-ui-container
+5percentnutrition.com,legacytoys.com,myotcstore.com,myvillagegreen.com,newvaping.com,nisupplements.com###smile-ui-container
+! ! .ba-widget-namespace
+australianorganicproducts.com.au,bodynutritionuk.co.uk,deal4.ca,ish.guitars,jdstorefashion.com,runninwildkids.co,unwiredshop.ca,winnerscircle.com##.ba-widget-namespace
+! ! .modals-wrapper
+sensilab.se##.modals-wrapper
+! ! .is-moved-by-drawer
+##.drawer__header-container.is-moved-by-drawer
+! ! #mc_embed_signup
+burelfactory.com,itm.com###mc_embed_signup
+! ! .newsletter-signup
+hotelspecials.nl,londondrugs.com,reverb.com,thetasteofgermany.com##.newsletter-signup
+! ! newsLetterCont
+bestbuy.ca##[class^="newsLetterCont"]
+! International
+kenayhome.com###AnclaBanner
+lerobert.com###block-edu-prospect-edu-prospect-email-catcher
+gutzuwissen.co.at###floatingbox
+deine-tierwelt.de###footer-newsletter
+ilgiardinodeilibri.it###footer-nl-form
+valgourmand.com###footer-primary
+tuinartikelen.nu###formNewsletterFooter
+td-toys.it###iqitpopup
+td-toys.it###iqitpopup-overlay
+solgarvitamin.ru###mainpage-subscribe
+witt-weiden.de###newsletter-flyout
+charmanthotel.com###newsletterModal
+clementoni.com###shopify-section-promo-pop
+qvc.it###splioNewsFooter
+proforto.be,proforto.nl###subscription-bar
+portoeditora.pt###subscription-popup-container
+alpin.it###tincxNewsletterPopUpModal
+medizinfuchs.de##.NewsletterInlineContent
+soliver.de##.asf-newsletter
+bassols.es##.bg-modalnews
+refurbed.at,refurbed.de,refurbed.dk,refurbed.fr,refurbed.ie,refurbed.it,refurbed.nl,refurbed.se##.bg-refurbed-blue
+hightechplace.com##.block-subscribe
+bahia-principe.com##.c-newsletter
+ditano.com##.container-box-email
+mediarado.de##.es-cmspro-element-newsletter
+mmoga.co.uk,mmoga.com,mmoga.de,mmoga.es,mmoga.fr,mmoga.se##.footNewsletter
+laredoute.fr##.footer-newsletter-block
+bierothek.de##.footer-nl
+avantisport.nl##.footer__blocks__newsletter
+woolworth.de,woolworth.pl##.form-newsletter-subscription
+sears.com.mx##.foterNewsletter
+bruneau.fr##.isg-shared-banner-popin
+biowash.com.br##.modal-newsletter
+bassols.es##.modalnews
+bruneau.fr##.mrk-footer-newsletter
+buecher.de##.newsletter-sign-in-wrap
+koffievoordeel.nl,wijnvoordeel.nl##.newsletter-subscription-widget
+tokothanhhung.nl##.newsletter_wrapper
+smulderstextiel.nl##.newsletterform
+optigura.fr##.o-modal
+italiangourmet.fr##.popup--newsletter
+consul.pt##.popupNewsletter
+dcshoes.fr##.r-1ups-description
+btravel.com##.s-footer__newsletter
+tvsatshop.cz##.s1-newsletter-outer
+mcdiscount.es,solgarvitamin.ru##.subscribe-container
+kingattitude.it##.subscribe-widget
+festina.com,tevanaot.co.il##.subscribe-wrapper
+kruidvat.nl##.subscription-box
+telhanorte.com.br##.telhanorte-telha-store-app-1-x-container-newsletter
+barax.de##.twt-element-newsletter
+viata.fr##.vi-newsletter-subscribe__content
+loungerie.com.br##.vtex-flex-layout-0-x-flexRow--newsletter-vtex-row
+drezzy.it##.widget-newsletter
+abbonamenti.it##abbo-newsletter
+sslazio.it##div[class^="Newsletter_"]
+! :has
+gamebillet.com##.alert-box-flexible:has(#newsletter-subscribe-block)
+! *** easylist:fanboy-addon/fanboy_newsletter_shopping_specific_uBO.txt ***
+! fanboy_newsletter_shopping_specific_uBO.txt
+! .modal/.modal-backdrop
+frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,trutone.ca,zumub.com##.modal
+frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,trutone.ca,zumub.com##.modal-backdrop
+frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,trutone.ca,zumub.com##body:style(overflow: auto !important; position: initial !important;)
+! tweeters.ca
+italianluxurygroup.com.au,shop.libbey.com,tiedex.co.uk,tweeters.ca##.shopify-section-group-popup-group
+italianluxurygroup.com.au,shop.libbey.com,tiedex.co.uk,tweeters.ca##body:style(overflow: auto !important; position: initial !important;)
+! sweetteacaviar.com
+sweetteacaviar.com###swell-overlay
+sweetteacaviar.com###swell-popup
+sweetteacaviar.com##[id^="smsbump-form-"]
+sweetteacaviar.com##body,html:style(overflow: auto !important; position: initial !important;)
+! urbanoutfitters.com
+urbanoutfitters.com##+js(set-local-storage-item, modalViewed, 1)
+! dollartree.com
+dollartree.com###email-signup-template
+dollartree.com##.modal-backdrop
+dollartree.com##body,html:style(overflow: auto !important; position: initial !important;)
+! atgames.us
+atgames.us##+js(set-local-storage-item, theme:popup-appeared, true)
+! wahaca.co.uk
+wahaca.co.uk##+js(rc, oxy-modal-active, body, stay)
+wahaca.co.uk##.oxy-modal-backdrop
+! girlscoutshop.com
+girlscoutshop.com##+js(set-cookie, newsletterLightboxDisplayed, true)
+! linenbee.com
+linenbee.com##.newsletter__lightbox
+linenbee.com##body,html:style(overflow: auto !important; position: initial !important;)
+! virginvoyages.com
+virginvoyages.com##+js(set-session-storage-item, emailSignupModal_isShown, true)
+! yvonnebennetti.com
+yvonnebennetti.com##+js(set-cookie, MCPopupClosed, yes)
+! foliosociety.com
+foliosociety.com##.modals-overlay
+foliosociety.com##.popup-newsletter
+foliosociety.com##body:style(overflow: auto !important; position: initial !important;)
+! #shopify-section-custom-popup
+vargooutdoors.com###shopify-section-custom-popup
+vargooutdoors.com##body,html:style(overflow: auto !important; position: initial !important;)
+! funco/loungefly
+funko.com,loungefly.com##+js(set-cookie, welcome_modal_email_ts, 1)
+! drinkspy.co.nz
+drinkspy.co.nz##.modal-backdrop
+drinkspy.co.nz##body:style(overflow: auto !important; position: initial !important;)
+! mightyape.co.nz
+mightyape.co.nz##+js(rc, modal-open, body, stay)
+mightyape.co.nz##.modal-backdrop
+mightyape.co.nz##.newsletter-nag-modal
+! paulaschoice.com
+paulaschoice.com##+js(set-local-storage-item, signUpModalClosed_slot-paulaschoice_us-global-signUpModal-sfmcModal, 1)
+! mountainwarehouse.com
+mountainwarehouse.com###sledgehammer
+mountainwarehouse.com##body,html:style(overflow: auto !important; position: initial !important;)
+! littleburgundyshoes.com
+littleburgundyshoes.com##.modal-backdrop
+littleburgundyshoes.com##.modal-email-signup
+littleburgundyshoes.com##body:style(overflow: auto !important; position: initial !important;)
+! journeys.ca
+journeys.ca###modalSignup
+journeys.ca##.modal-backdrop
+journeys.ca##body:style(overflow: auto !important; position: initial !important;)
+! tradedepot.co.nz
+tradedepot.co.nz##.modal
+tradedepot.co.nz##.modal-background
+tradedepot.co.nz##body:style(overflow: auto !important; position: initial !important;)
+! .dy-modal-container
+harborfreight.com##.dy-modal-container
+harborfreight.com##body:style(overflow: auto !important; position: initial !important;)
+! .reveal-modal-bg
+generalpants.com##.reveal-modal
+generalpants.com##.reveal-modal-bg
+generalpants.com##body:style(overflow: auto !important; position: initial !important;)
+! dsw.com
+dsw.com##.overlay
+dsw.com##body,html:style(overflow: auto !important; position: initial !important;)
+! bedbathandbeyond.com
+bedbathandbeyond.com###page_triggers
+bedbathandbeyond.com##body,html:style(overflow: auto !important; position: initial !important;)
+! .reveal-overlay
+networldsports.ca,summitracing.com##.reveal-overlay
+networldsports.ca,summitracing.com##body,html:style(overflow: auto !important; position: initial !important;)
+! racketsandrunners.ca
+racketsandrunners.ca##.popUp-overlay
+racketsandrunners.ca##body,html:style(overflow: auto !important; position: initial !important;)
+! saucerco.com
+saucerco.com##+js(set-cookie, newsletter-newsletter-popup, true)
+! modesens.com
+modesens.com###signmd___BV_modal_outer_
+modesens.com##body,html:style(overflow: auto !important; position: initial !important;)
+! allbirds.
+allbirds.co.nz,allbirds.com,allbirds.com.au###backdrop-container
+allbirds.co.nz,allbirds.com,allbirds.com.au##.EmailSignupModal__portal
+allbirds.co.nz,allbirds.com,allbirds.com.au##body,html:style(overflow: auto !important; position: initial !important;)
+! pbteen.com
+pbteen.com##.join_email_capture_component
+pbteen.com##body:style(overflow: auto !important; position: initial !important;)
+! #shopify-section-popups
+atelierskn.com###shopify-section-popups
+atelierskn.com##body,html:style(overflow: auto !important; position: initial !important;)
+! ipowerqueen.com
+aihome.com.my,ipowerqueen.com##.mfp-ready
+aihome.com.my,ipowerqueen.com##body,html:style(overflow: auto !important; position: initial !important;)
+! .modal/.modal-overlay
+fwrd.com,revolve.com##.modal
+fwrd.com,revolve.com##.modal-overlay
+fwrd.com,revolve.com##body,html:style(height: auto !important; overflow: auto !important)
+! rktbns.de
+rktbns.de##.arcticmodal-container
+rktbns.de##.arcticmodal-overlay
+rktbns.de##body,html:style(overflow: auto !important; position: initial !important;)
+! torpedo7.co.nz
+torpedo7.co.nz##.open-js-modal-full
+torpedo7.co.nz##body,html:style(overflow: auto !important; position: initial !important;)
+! .swal2-container
+vat19.com##.swal2-container
+vat19.com##body,html:style(height: auto !important; overflow: auto !important)
+! #shopify-section-newsletter-popup
+bwpsales.com,detroitmodular.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,lakshmistores.com,magnumboots.com,metrocheese.com,wilcooffroad.com###shopify-section-newsletter-popup
+bwpsales.com,detroitmodular.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,lakshmistores.com,magnumboots.com,metrocheese.com,wilcooffroad.com##body,html:style(height: auto !important; overflow: auto !important)
+! audialab.com
+audialab.com##+js(set-local-storage-item, user_closed_pop_up, true)
+! columbiasportswear
+columbiasportswear.at##+js(set-cookie, Columbia_AT_emailPopup, 1)
+columbiasportswear.de##+js(set-cookie, Columbia_DE_emailPopup, 1)
+columbiasportswear.es##+js(set-cookie, Columbia_ES_emailPopup, 1)
+columbiasportswear.fr##+js(set-cookie, Columbia_FR_emailPopup, 1)
+columbiasportswear.it##+js(set-cookie, Columbia_IT_emailPopup, 1)
+columbiasportswear.co.uk##+js(set-cookie, Columbia_UK_emailPopup, 1)
+! logitech.com
+logitech.com##.email-subscription-modal
+logitech.com##body,html:style(overflow: auto !important; position: initial !important;)
+! shopify-section-signup-modal
+flovitamins.com###shopify-section-signup-modal
+flovitamins.com##body:style(overflow: auto !important; position: initial !important;)
+! zenith-watches.com
+zenith-watches.com###modal-generic-modal
+zenith-watches.com##html:style(height: auto !important; overflow: auto !important)
+! .silk-modal-root
+vitaminworld.com##.silk-modal-root
+vitaminworld.com##body:style(overflow: auto !important; position: initial !important;)
+! razer.com
+www.razer.com##.modal-backdrop
+www.razer.com##.modal-newsletter
+www.razer.com##body:style(overflow: auto !important; position: initial !important;)
+! ballantynes.co.nz
+ballantynes.co.nz##.modal-backdrop
+ballantynes.co.nz##.modal-scrollable
+ballantynes.co.nz##body,html:style(overflow: auto !important; position: initial !important;)
+! .popup
+pushmycart.com,shutterfly.com##.popup
+pushmycart.com,shutterfly.com##body,html:style(overflow: auto !important; position: initial !important;)
+! .modal-wrapper
+publiclands.com##.modal-wrapper
+publiclands.com##body:style(overflow: auto !important; position: initial !important;)
+! leevalley.com
+leevalley.com###newsletter-signup-modal
+leevalley.com##.lv-modal-blocker
+leevalley.com##body:style(overflow: auto !important; position: initial !important;)
+! massivetoyblowout.ca
+massivetoyblowout.ca##.wcb-md-modal
+massivetoyblowout.ca##.wcb-md-overlay
+massivetoyblowout.ca##body:style(overflow: auto !important; position: initial !important;)
+! sears.com
+sears.com##+js(set-session-storage-item, banner_session, true)
+! sharperimage.com
+sharperimage.com##+js(set-cookie, mystery_popup, true)
+! sweetwater.com
+sweetwater.com##+js(set-cookie, sws-gwpop, 1)
+! glasses.com
+glasses.com###newsletter-modal
+glasses.com##.form-container
+glasses.com##body,html:style(height: auto !important; overflow: auto !important)
+! olaproducts.co.nz
+olaproducts.co.nz##.newsletter__lightbox
+olaproducts.co.nz##body,html:style(height: auto !important; overflow: auto !important)
+! pitviper.com
+pitviper.com##.yotpo-smsbump-modal__backdrop
+pitviper.com##[id^="smsbump-form-"]
+pitviper.com##body,html:style(height: auto !important; overflow: auto !important)
+! levi.com
+levi.com##.full-vp-welcome-modal-wrapper
+levi.com##body:style(overflow: auto !important; position: initial !important;)
+! build.com
+build.com###modal-root
+build.com##body:style(overflow: auto !important; position: initial !important;)
+! williams-sonoma.com
+williams-sonoma.com###join-email-campaign
+williams-sonoma.com##body:style(overflow: auto !important; position: initial !important;)
+! landyachtz.com
+landyachtz.com##.kl-private-reset-css-Xuajs1.needsclick
+landyachtz.com##body:style(overflow: auto !important; position: initial !important;)
+! tsc.ca
+tsc.ca##.email-popup__overlay
+tsc.ca##body:style(overflow: auto !important; position: initial !important;)
+! wafuu.com
+wafuu.com##.contact-form
+wafuu.com##.modal-backdrop
+wafuu.com##body:style(overflow: auto !important; position: initial !important;)
+! overstock.com
+overstock.com###page_triggers
+overstock.com##body:style(overflow: auto !important; position: initial !important;)
+! deskhero.ca
+deskhero.ca##.react-responsive-modal-root
+deskhero.ca##body:style(overflow: auto !important; position: initial !important;)
+! calvinklein.*
+calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk##.ck-modal--newsletter-modal-wrapper
+calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk##body:style(overflow: auto !important; position: initial !important;)
+! humankinetics.com
+fatalmodel.shop,humankinetics.com##.fancybox-overlay
+fatalmodel.shop,humankinetics.com##body,html:style(overflow: auto !important; position: initial !important;)
+! assos.com
+assos.com##+js(set-cookie, popup-newsletter, true)
+! .fancybox-container
+headphonebar.com,jolinne.com##.fancybox-container
+headphonebar.com,jolinne.com##body:style(overflow: auto !important; position: initial !important;)
+! house.suntory.com
+house.suntory.com##.modal-backdrop
+house.suntory.com##.overlay-newsletter
+house.suntory.com##body,html:style(overflow: auto !important; position: initial !important;)
+! eileenscookieshighlandsranch.com
+eileenscookieshighlandsranch.com##.leadform-popup-widget
+eileenscookieshighlandsranch.com##body,html:style(overflow: auto !important; position: initial !important;)
+! bcliquorstores.com
+bcliquorstores.com##+js(set-session-storage-item, enews_popup_session, 1)
+! foodsalive.com
+foodsalive.com##.shopify-section-group-overlay-group
+foodsalive.com##body,html:style(overflow: auto !important; position: initial !important;)
+! nfm.com
+nfm.com###att_lightbox_email
+nfm.com##body,html:style(overflow: auto !important; position: initial !important;)
+! suzukicycles.com
+suzukicycles.com##+js(rc, modal-open, body, stay)
+suzukicycles.com##.modal-backdrop
+suzukicycles.com##.popup-promo
+! partsinmotion.co.uk
+partsinmotion.co.uk###fancybox-overlay
+partsinmotion.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
+! biglots.com
+ardene.com,asgoodasnew.de,asgoodasnew.es,asgoodasnew.fr,asgoodasnew.it,biglots.com,toysrus.ca##.modal
+ardene.com,asgoodasnew.de,asgoodasnew.es,asgoodasnew.fr,asgoodasnew.it,biglots.com,toysrus.ca##body,html:style(overflow: auto !important; position: initial !important;)
+! geizdental.de
+authenticoilco.com,geizdental.de##.modals-wrapper
+authenticoilco.com,geizdental.de##body:style(overflow: auto !important; position: initial !important;)
+! stylewe.com
+stylewe.com###cartx-wrap
+stylewe.com##body:style(overflow: auto !important; position: initial !important;)
+! dell.com
+dell.com###mh-ext-signupemail-modal
+dell.com##body:style(overflow: auto !important; position: initial !important;)
+! temu.com
+temu.com###bg-simple-portal-container
+temu.com###bg_pc_benefit_download_modal_container_id
+temu.com##body:style(overflow: auto !important; position: initial !important;)
+! ringkestore.com
+ringkestore.com##body,html:style(overflow: auto !important; position: initial !important;)
+ringkestore.com##pop-up
+! honichi.com
+honichi.com##.mailmag-modal
+honichi.com##.modal-backdrop
+honichi.com##.modal-open:style(overflow: auto !important;)
+! skil.com
+skil.com##body:style(overflow: auto !important;)
+skil.com##popup-component
