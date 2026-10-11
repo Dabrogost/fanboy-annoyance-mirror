@@ -1,6 +1,6 @@
 # Fanboy's Annoyance List - uBO build mirror
 
-Independent, automatically generated distribution of **Fanboy's Annoyance List (uBlock Origin edition)** for [Chroma Ad-Blocker](https://github.com/Dabrogost/Chroma-Ad-Blocker).
+Independent, automatically generated distribution of **Fanboy's Annoyance List (uBlock Origin edition)**.
 
 The filtering rules are **not authored or maintained here**. The authoritative upstream is [easylist/easylist](https://github.com/easylist/easylist), using its [`fanboy-annoyance-uBO.template`](https://github.com/easylist/easylist/blob/master/fanboy-annoyance-uBO.template). This mirror simply compiles those upstream files and publishes a single subscription URL. This project is not affiliated with or endorsed by EasyList/Fanboy.
 
