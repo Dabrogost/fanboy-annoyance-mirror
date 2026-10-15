@@ -15,20 +15,18 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    runs-on: [self-hosted, github-fanboy]
     timeout-minutes: 20
 
     steps:
       - name: Check out mirror repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install official EasyList renderer
-        run: python -m pip install --disable-pip-version-check 'git+https://github.com/adblockplus/python-abp.git@4b0aec2'
+      - name: Verify preinstalled Python and pinned EasyList renderer
+        run: |
+          python -c 'import sys; assert sys.version_info[:2] == (3, 11)'
+          flrender --help >/dev/null
 
       - name: Fetch official EasyList sources
         run: git clone --depth 1 https://github.com/easylist/easylist.git upstream
