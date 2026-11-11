@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202611112249
+! Version: 202611112307
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Nov 2026 22:49 UTC
+! Last modified: 11 Nov 2026 23:07 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -55896,8 +55896,18 @@ erome.com##body:style(height: auto !important; overflow: auto !important; oversc
 ! *** easylist:fanboy-addon/fanboy_agegate_allowlist.txt ***
 ! fanboy_agegate_allowlist.txt
 lighterusa.com#@##shopify-section-age-gate
+! *** easylist:fanboy-addon/fanboy_agegate_specific_block.txt ***
+! fanboy_agegate_specific_block.txt
+||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
 
 ! ---------------- Fanboy Newsletter Shopping ----------------
+! *** easylist:fanboy-addon/fanboy_newsletter_shopping_specific_block.txt ***
+! fanboy_newsletter_shopping_specific_block.txt
+||bnamic.com/newsletter-subscription.js
+||ibspot.com/klaviyo_form
+||link.box.blick.ch/join/7m4/signup-shopping-tipps
+||listrakbi.com/scripts/$script,domain=ninjakitchen.com
+||ping.contactpigeon.com^
 ! *** easylist:fanboy-addon/fanboy_newsletter_shopping_specific_hide.txt ***
 ! fanboy_newsletter_shopping_specific_hide.txt
 alldayshirts.com###GeneralSaleBanner
