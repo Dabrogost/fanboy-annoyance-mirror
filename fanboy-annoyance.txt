@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202611102300
+! Version: 202611112249
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Nov 2026 23:00 UTC
+! Last modified: 11 Nov 2026 22:49 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -33211,6 +33211,7 @@ sports.yahoo.com###app-promo
 linkedin.com###app-upsell-container
 m.economictimes.com###appDwnldBanner
 m.aiscore.com###appLink
+tour.ne.jp###appPopUpBanner
 goo-net.com###app_info_area
 filmora.wondershare.jp###appboxWrapper
 brandeli.com###appbuner
@@ -34903,6 +34904,7 @@ mypenndentist.org##.bg-navylightblue.padding-v20
 allaboutcircuits.com,bobvila.com##.bg-newsletter
 biblegateway.com##.bg-popup-root
 sciencealert.com##.bg-sciencealert-yellow
+begiant.ca##.bg-surface-cream
 axios.com##.bg-tertiary.gtmView
 thebudgetsavvybride.com##.bg-turquoise-500
 thepostmillennial.com##.bg-warning
@@ -35611,7 +35613,7 @@ qz.com##.kHmXgL
 christinacooks.com##.kadence-conversion-wrap
 joanwestenberg.com,ppc.land##.kg-cta-card
 the-londoner.co.uk##.kg-cta-content
-alsterrunde.com,beautifulpublicdata.com,codereliant.io,evinfocus.com,gardinerbryant.com,gkogan.co,leicester.news,livpost.co.uk,micahflee.com,newslttrs.com,overkill.wtf,oxfordclarion.uk,ppc.land,scarletink.com,simone.org##.kg-signup-card
+alsterrunde.com,beautifulpublicdata.com,codereliant.io,evinfocus.com,gardinerbryant.com,gkogan.co,leicester.news,livpost.co.uk,micahflee.com,newslttrs.com,overkill.wtf,oxfordclarion.uk,ppc.land,scarletink.com,simone.org,this.weekinsecurity.com##.kg-signup-card
 disconnect.blog,the-londoner.co.uk##.kg-signup-card-content
 digitalocean.com##.khfYvn
 betakit.com,govee.com##.kl-private-reset-css-Xuajs1.needsclick
@@ -35691,7 +35693,6 @@ psu.edu##.mailinglist-form
 ndtvprofit.com##.mailmodo-news-letter-m__card-wrapper__o-Dst
 niemanlab.org##.mailmunch-overlay
 niemanlab.org##.mailmunch-popover
-firethering.com##.mailpoet_form
 consummateathlete.com,pstribune.com##.mailpoet_form_popup_overlay
 leadership.ng,openculture.com##.mailster-form
 freebeacon.com##.main-container > .container > .block > .w-full > .border-blue2
@@ -37123,7 +37124,7 @@ edmontonjournal.com##.newsletter-widget
 ! ! .subscription-widget-wrap
 hamiltonnolan.com,whytryai.com##.subscription-widget-wrap
 ! ! .mailpoet_form
-broadcastnews.gr,chipsandcheese.com,chipwits.com,consummateathlete.com,etfworld.co.uk,europeantimes.news,exputer.com,hedgenordic.com,logitheque.com,mixed-news.com,notionthings.com,phonandroid.com,portalpuentealto.cl,pstribune.com,sardiniapost.it,scienceclock.com,slaynews.com,tech4gamers.com,thedesk.net,theklaxon.com.au,tomshardware.fr##.mailpoet_form
+broadcastnews.gr,chipsandcheese.com,chipwits.com,consummateathlete.com,etfworld.co.uk,europeantimes.news,exputer.com,firethering.com,hedgenordic.com,logitheque.com,lpeproject.org,mixed-news.com,notionthings.com,phonandroid.com,portalpuentealto.cl,pstribune.com,sardiniapost.it,scienceclock.com,slaynews.com,tech4gamers.com,thedesk.net,theklaxon.com.au,tomshardware.fr##.mailpoet_form
 ! ! signUpForm_
 fastxmovie.com##div[class^="signUpForm_"]
 ! ! .bottom-0.fixed
@@ -37854,6 +37855,9 @@ techpolicy.press##.ml-webforms-popup-overlay
 techpolicy.press##body:style(overflow: auto !important; position: initial !important;)
 ! Signup https://github.com/uBlockOrigin/uAssets/issues/35166
 gtaservers.org##+js(set-local-storage-item, np-west-signup-seen-2, 1)
+! begiant.ca
+begiant.ca#?#.z-1200.inset-0.fixed:has-text(Get a free book!)
+begiant.ca##body:style(overflow: auto !important; position: initial !important;)
 ! niemanlab.org
 niemanlab.org###nlep
 niemanlab.org##body:style(overflow: auto !important; position: initial !important;)
@@ -43242,6 +43246,7 @@ duelz.com##app-tiny-alert
 chochko.com##aside[data-role="gdpr-cookie-container"]
 thomasnet.com##aside[data-sentry-component="CookieBanner"]
 essential.gg##banner-content
+begiant.ca#?#.z-1300.inset-0:has-text(Your Privacy)
 cherytr.com,cine-max.sk##body .cc-nb-main-container
 facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
 community.nexthink.com##c-community-cookie-consent-banner
