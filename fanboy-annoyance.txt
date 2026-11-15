@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202611141156
+! Version: 202611152317
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Nov 2026 11:56 UTC
+! Last modified: 15 Nov 2026 23:17 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -43131,7 +43131,7 @@ askethos.com,hintoai.com,k2think.ai,lemonade.com##[aria-describedby="cookie-cons
 ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 anexia.com##[aria-describedby="privacy-settings-description"]
 kstp.com,lucidchart.com,scribd.com,whec.com##[aria-label="Cookie Consent Banner"]
-1password.com,shirtspace.com##[aria-label="Cookie Consent"]
+1password.com,quantpedia.com,shirtspace.com##[aria-label="Cookie Consent"]
 pretense.ai##[aria-label="Cookie and privacy notice"]
 dictionary.cambridge.org,lovable.dev##[aria-label="Cookie banner"]
 the-fence.com##[aria-label="Cookie choices"]
